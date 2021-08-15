@@ -1,6 +1,6 @@
 # PAL/KA
 
-What does the name stand for you ask? Pretty Awesome LSTM/K-Means Applications. Why have I named it this way? A certain someone inspired me to do so. Who was it you ask? Well, You Know Who. <br><br>
+What does the name stand for you ask? Pretty Awesome LSTM/K-Means Applications. Why have I named it this way? A certain someone inspired me to do so. Who was it you ask? Well, You Know Who. Welcome to the world of inside jokes.<br><br>
 
 This repository contains some applications of LSTMs and K-Means for analyzing and predicting stock data. References are mentioned below. 
 
